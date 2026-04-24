@@ -41,6 +41,11 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/younesseddahby/younesseddahby/output/snake.svg" alt="Snake animation" />
+
+---
+
+
 <p align="center">
   🔥 Keep coding, keep growing!
 </p>
