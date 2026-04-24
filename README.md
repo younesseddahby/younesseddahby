@@ -41,8 +41,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/younesseddahby/younesseddahby/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://raw.githubusercontent.com/younesseddahby/younesseddahby/output/github-snake.svg)
 ---
 
 
