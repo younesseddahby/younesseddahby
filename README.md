@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youness Eddahby</h1>
+<h1 align="center">Hi 👋, I'm Youness EDDAHBY</h1>
 <p align="center">
   💻 Frontend Developer | 🚀 Learning Python | 🎯 Building cool projects
 </p>
