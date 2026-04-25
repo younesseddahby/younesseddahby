@@ -41,7 +41,7 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/younesseddahby/younesseddahby/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/younesseddahby/younesseddahby/output/github-snake-dark.svg)
 ---
 
 
