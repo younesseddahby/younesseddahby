@@ -38,7 +38,7 @@ A full-stack Quran web application with an AI-powered Islamic assistant that ans
 - Full-stack development  
 - Currently improving the mobile version  
 
-**Tech:** HTML, CSS, JavaScript, Python, AI tools, API integration  
+**Tech:** HTML, CSS, JavaScript, AI tools, API integration  
 
 ---
 
