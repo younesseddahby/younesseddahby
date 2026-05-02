@@ -56,7 +56,26 @@ A modern weather application built with TypeScript that displays real-time weath
 **Tech:** TypeScript, TSX, CSS, APIs, JSON  
 
 ---
+## 📱 Download App
 
+👉 [Download APK](https://github.com/younesseddahby/nur-quran-app/releases)
+
+---
+
+## ✨ Features
+- 📖 Full Quran offline
+- 🌙 Dark / Light mode
+- 🌍 Arabic + English
+- ⚡ Fast and simple
+
+---
+
+## ⚠️ Installation
+1. Download the APK
+2. Allow unknown sources
+3. Install and open
+
+---
 ## 🌐 Connect with me
 
 <p align="center">
