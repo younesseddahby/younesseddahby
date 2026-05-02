@@ -58,7 +58,7 @@ A modern weather application built with TypeScript that displays real-time weath
 ---
 ## 📱 Download App
 
-👉 [Download APK](https://github.com/younesseddahby/nur-quran-app/releases)
+👉 [Download APK](https://github.com/younesseddahby/quran-app/releases)
 
 
 
