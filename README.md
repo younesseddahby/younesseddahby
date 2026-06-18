@@ -66,6 +66,12 @@ Nur Quran is a simple and fast Quran application that allows you to read the Hol
 
 ## 📱 Download
 
+<a href="https://play.google.com/store/apps/details?id=com.eddahby.quran">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+       alt="Get it on Google Play" 
+       width="200"/>
+</a>
+
 [Download Nur Quran on Google Play](https://play.google.com/store/apps/details?id=com.eddahby.quran)
 
 ## ✨ Features | المميزات
