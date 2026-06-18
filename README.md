@@ -56,23 +56,51 @@ A modern weather application built with TypeScript that displays real-time weath
 **Tech:** TypeScript, TSX, CSS, APIs, JSON  
 ---
 ---
-## 📱 Download App
+# نور قرآن - Nur Quran 📖
 
-👉 [Download APK](https://github.com/younesseddahby/quran-app/releases)
+**Offline Quran App | القرآن الكريم دون نت**
 
+Nur Quran is a simple and fast Quran application that allows you to read the Holy Quran anytime and anywhere without an internet connection.
 
+نور قرآن هو تطبيق بسيط وسريع لقراءة القرآن الكريم في أي وقت وأي مكان بدون الحاجة إلى الإنترنت.
 
-## ✨ Features
-- 📖 Full Quran offline
-- 🌙 Dark / Light mode
-- 🌍 Arabic + English
-- ⚡ Fast and simple
+## 📱 Download
 
+[Download Nur Quran on Google Play](https://play.google.com/store/apps/details?id=com.eddahby.quran)
 
-## ⚠️ Installation
-1. Download the APK
-2. Allow unknown sources
-3. Install and open
+## ✨ Features | المميزات
+
+- 📖 Read the Quran offline without internet
+- 🔎 Fast search by Surah name, number, or Arabic text
+- ⚡ Fast startup and smooth navigation
+- 🌙 Comfortable dark mode for night reading
+- 📱 Clean and simple reading interface
+- 🔖 Easy access to Surahs and reading progress
+- 🕌 Lightweight app with a smooth experience
+
+## 🆕 What's New
+
+- Improved search: Find Surahs and verses faster by name, number, or text.
+- Better performance: Faster startup and smoother navigation between Surahs.
+- Enhanced reading interface: A cleaner and more comfortable Quran reading experience.
+- Improved dark mode: Better contrast for comfortable night reading.
+- General improvements and fixes for better accuracy and stability.
+
+## 🛠️ Built With
+
+- React
+- Capacitor
+- Android
+
+## 📄 About
+
+Nur Quran was created to provide a simple, fast, and offline Quran reading experience.
+
+نور قرآن تم تطويره لتوفير تجربة قراءة سهلة وسريعة للقرآن الكريم بدون إنترنت.
+
+---
+
+⭐ If you like the app, consider rating it on Google Play.
 ---
 ---
 ## 🌐 Connect with me
