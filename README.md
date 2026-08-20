@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Youness EDDAHBY</h1>
+# 💫 About Me:
+⚡ About Me<br>🎨 I love building clean, modern, and responsive user interfaces<br>💻 I build practical web applications using frontend and backend technologies<br>🤖 Interested in AI-powered applications and API integration<br>📚 Currently improving my Python, AI, and API integration skills<br>🚀 Working on personal projects and learning every day
 
-<p align="center">
-  💻 Full Stack Developer | 🤖 AI Tools & API Integration | 🚀 Building useful web apps
-</p>
 
-<p align="center">
-  <a href="https://www.youss.site/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/younesseddahby">
-    <img src="https://img.shields.io/badge/GitHub-younesseddahby-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yns.dhb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youness_eddahby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younesseddahby) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/youness_eddahby) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/younesseddahby) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YounessEddahby) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YoussTech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eddahbyyouness1@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=younesseddahby&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=younesseddahby&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=younesseddahby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚡ About Me
-
-- 🎨 I love building clean, modern, and responsive user interfaces  
-- 💻 I build practical web applications using frontend and backend technologies  
-- 🤖 Interested in AI-powered applications and API integration  
-- 📚 Currently improving my Python, AI, and API integration skills  
-- 🚀 Working on personal projects and learning every day  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=younesseddahby&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=younesseddahby&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/eddahby) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eddahbyyouness7@gmail.com) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🚀 Featured Projects
 
@@ -80,38 +79,6 @@ Nur Quran was created to provide a simple, fast, and offline Quran reading exper
 
 ⭐ If you like the app, consider rating it on Google Play.
 ---
----
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.youss.site/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/youness-eddahby/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/youness_eddahby"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/youness_eddahby"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/YounessEddahby"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.facebook.com/yns.dhb"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,vercel,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younesseddahby&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=younesseddahby&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesseddahby&layout=compact&theme=radical"/>
-</p>
 
 ---
 
