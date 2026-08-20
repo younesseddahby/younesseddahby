@@ -27,35 +27,7 @@
 
 ## 🚀 Featured Projects
 
-### 🕌 Al Quran Web App  
-🔗 Live Demo: https://al-quran.site  
 
-A full-stack Quran web application with an AI-powered Islamic assistant that answers user questions and provides contextual guidance.
-
-**Highlights:**
-- AI-powered assistant  
-- Clean and responsive interface  
-- Full-stack development  
-- Currently improving the mobile version  
-
-**Tech:** HTML, CSS, JavaScript, AI tools, API integration  
-
----
-
-### 🌤️ Skyward Weather App  
-🔗 Live Demo: https://skyward-kappa.vercel.app/  
-
-A modern weather application built with TypeScript that displays real-time weather data through API integration.
-
-**Highlights:**
-- Real-time weather data  
-- API integration  
-- Type-safe development  
-- Responsive UI  
-
-**Tech:** TypeScript, TSX, CSS, APIs, JSON  
----
----
 # نور قرآن - Nur Quran 📖
 
 **Offline Quran App | القرآن الكريم دون نت**
