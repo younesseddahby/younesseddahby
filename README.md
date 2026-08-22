@@ -158,7 +158,7 @@ with a focus on great interfaces, useful products, and continuous learning.
 
 If you enjoy my projects and would like to support what I build:
 
-<a href="https://paypal.me/eddahbyyouness7@gmail.com"><img src="https://img.shields.io/badge/Support%20me%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal"></a>
+<a href="https://paypal.me/YounessEddahby"><img src="https://img.shields.io/badge/Support%20me%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal"></a>
 
 ---
 
