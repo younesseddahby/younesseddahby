@@ -4,9 +4,6 @@
 
 ### 💻 Developer • 🤖 AI Explorer • 🎨 UI Builder • 🚀 Lifelong Learner
 
-I build **clean, modern, and practical applications** across web, mobile, and AI —
-with a focus on great interfaces, useful products, and continuous learning.
-
 <p>
   <a href="https://github.com/younesseddahby"><img src="https://img.shields.io/badge/GitHub-younesseddahby-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://linkedin.com/in/younesseddahby"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
@@ -17,15 +14,8 @@ with a focus on great interfaces, useful products, and continuous learning.
 
 ---
 
-## 🧑‍💻 About Me
 
-- ⚡ I love building **clean, modern, and responsive user interfaces**
-- 💻 I build practical applications using **frontend and backend technologies**
-- 🤖 Interested in **AI-powered applications and API integration**
-- 📚 Currently improving my **Python, AI, and API integration** skills
-- 🚀 Working on personal projects and learning something new every day
 
-> **Build. Learn. Improve. Repeat.** 🚀
 
 ---
 
