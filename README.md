@@ -11,7 +11,7 @@
 
 </div>
 ---
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p>
 
