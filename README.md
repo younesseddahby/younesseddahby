@@ -10,7 +10,7 @@
 </p>
 
 </div>
----
+
 🌐 Connect With Me
 
 <p>
@@ -58,14 +58,6 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=younesseddahby&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
 <br>
 <img src="https://streak-stats.demolab.com/?user=younesseddahby&theme=onedark&hide_border=false" alt="GitHub streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=younesseddahby&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ---
